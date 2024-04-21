@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 
 <!--
 **IEC61439/IEC61439** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
